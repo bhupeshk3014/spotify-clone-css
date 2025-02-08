@@ -18,7 +18,6 @@ This project is a clone of the Spotify web player interface, created using HTML 
 
 ## File Structure
 
-- `.vscode/settings.json`: Configuration for the VS Code Live Server extension.
 - `images/`: A directory containing images used in the project.
 - `index.html`: The main HTML file that contains the structure of the web page.
 - `README.md`: This file, providing an overview of the project.
@@ -30,11 +29,8 @@ This project is a clone of the Spotify web player interface, created using HTML 
 2. Open the project folder in Visual Studio Code.
 3. Open `index.html` in your browser or use the Live Server extension in VS Code to view the project.
 
-## Future Improvements
-
-- Add JavaScript functionality to make the music player interactive.
-- Implement a search feature to filter songs and playlists.
-- Enhance the design with more animations and transitions.
+## 📸 **Screenshots**  
+![Spotify Clone Screenshot](images/screenshot.png)  
 
 
 This project is a great way to practice HTML and CSS skills and to understand how to structure and style a complex web page layout.
