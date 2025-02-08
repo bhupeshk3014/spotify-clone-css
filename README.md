@@ -25,9 +25,11 @@ This project is a clone of the Spotify web player interface, created using HTML 
 
 ## How to Run
 
-1. Clone the repository to your local machine.
-2. Open the project folder in Visual Studio Code.
-3. Open `index.html` in your browser or use the Live Server extension in VS Code to view the project.
+1. Clone the repository:  
+   `git clone https://github.com/bhupeshk3014/spotify-clone-css`
+2. **Open `index.html` in your browser.**  
+3. **Enjoy the Spotify UI experience!** 🎧  
+
 
 ## 📸 **Screenshots**  
 ![Spotify Clone Screenshot](images/screenshot.png)  
